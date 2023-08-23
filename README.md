@@ -7,10 +7,6 @@ Prazer, sou o Andres! Atualmente estou absorvendo conhecimentos relacionados a �
 <li>Programação</li>
 <li>Desenvolvimento Front-End e Back-End</li><br>
 
-<p align="center">
-<img width="900" height="400" src="https://cdn.pixabay.com/photo/2022/04/04/16/24/technology-7111765_1280.jpg">
-</p>
-
 <h2>Desenvolvendo as Plataformas Back-End e Front-End:</h2>
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
