@@ -22,6 +22,10 @@ Prazer, sou o Andres! Atualmente estou absorvendo conhecimentos relacionados a Ã
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 [![Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)]()
 
+<h2>Detalhes:</h2>
+
+![Andres GitHub stats](https://github-readme-stats.vercel.app/api?username=andrescristian&show_icons=true&theme=radical)
+
 
 
 
