@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Andres+Cristian&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2003b3&height=180&section=header&text=Andres+Cristian&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 Prazer, sou o Andres! Atualmente estou absorvendo conhecimentos relacionados a área de TI, tais como:
 <li>Hardware</li>
