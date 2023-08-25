@@ -1,9 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=160&section=header&text=Andres+Cristian&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
 <div align="center">
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?theme=dark&lines=Olá,+Meu+Nome+é+Andres+Cristian;Estudante+na+Área+de+Informática)](https://git.io/typing-svg)
-
+<img src="https://readme-typing-svg.demolab.com/?theme=dark&lines=Olá,+Meu+Nome+é+Andres+Cristian;Estudante+na+Área+de+Informática">
 </div>
 Prazer, sou o Andres! Atualmente estou absorvendo conhecimentos relacionados a área de TI, tais como:
 <li>Hardware</li>
