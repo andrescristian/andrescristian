@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou o Andres Cristian</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Andres&fontSize=30&fontColor=fff&animation=twinkling"/>
 
 Prazer, sou o Andres! Atualmente estou absorvendo conhecimentos relacionados a área de TI, tais como:
 <li>Hardware</li>
