@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=160&section=header&text=Andres+Cristian&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=header&text=Andres+Cristian&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com/?theme=dark&lines=Olá,+Meu+Nome+é+Andres+Cristian;Estudante+na+Área+de+Informática">
 </div>
