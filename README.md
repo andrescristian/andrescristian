@@ -1,5 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Andres+Cristian&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+</div>
 Prazer, sou o Andres! Atualmente estou absorvendo conhecimentos relacionados a área de TI, tais como:
 <li>Hardware</li>
 <li>Fundamentos de Rede</li>
