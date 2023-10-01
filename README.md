@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0406DA&height=150&section=header&text=Andres+Cristian&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0406DA&size=35&center=true&vCenter=true&width=1000&lines=Hello+world!+Bem-vindo(a)+ao+meu+Github;Desenvolvendo+em+Front-end+e+Back-end;HTML,+CSS+e+JavaScript...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0406DA&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+Bem-vindo(a)+ao+meu+Github;Desenvolvendo+em+Back-end+e+Front-end;HTML,+CSS+e+JavaScript...;)](https://git.io/typing-svg)
 
 </div>
 Prazer, sou o Andres! Atualmente estou absorvendo conhecimentos relacionados a área de TI, tais como:
