@@ -1,6 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0406DA&height=150&section=header&text=Andres+Cristian&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0406DA&width=435&lines=Hello World! Bem-vindo ao meu Github;Desenvolvendo e Aprimorando em TI" alt="Typing SVG" /></a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0406DA&size=35&center=true&vCenter=true&width=1000&lines=Hello+world!+Bem-vindo(a)+ao+meu+Github;Desenvolvendo+em+Front-end+e+Back-end;HTML,+CSS+e+JavaScript...;)](https://git.io/typing-svg)
+
 </div>
 Prazer, sou o Andres! Atualmente estou absorvendo conhecimentos relacionados a área de TI, tais como:
 <li>Hardware</li>
