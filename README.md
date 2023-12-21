@@ -28,4 +28,4 @@ Prazer, sou o Andres! Atualmente estou absorvendo conhecimentos relacionados a Ã
 
 <h2>Detalhes:</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=andrescristian&show_icons=true&theme=algolia" width="400"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrescristian&layout=compact&theme=algolia" width="358">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrescristian&show_icons=true&theme=algolia"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrescristian&layout=compact&theme=algolia">
