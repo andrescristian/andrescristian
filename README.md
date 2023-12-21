@@ -26,8 +26,7 @@ Prazer, sou o Andres! Atualmente estou absorvendo conhecimentos relacionados a Ã
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 
-<h2>Detalhes:</h2>
-
+<h1 align="center">Detalhes:</h1>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrescristian&show_icons=true&theme=algolia"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrescristian&layout=compact&theme=algolia">
 </div>
