@@ -8,7 +8,7 @@ Prazer, sou o Andres! Atualmente estou absorvendo conhecimentos relacionados a �
 <li>Hardware</li>
 <li>Fundamentos de Rede</li>
 <li>Cabeamento Estruturado</li>
-<li>Programação</li>
+<li>Banco de Dados</li>
 <li>Desenvolvimento Front-End e Back-End</li>
 
 <h2>Desenvolvendo as Plataformas Back-End e Front-End:</h2>
