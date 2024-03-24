@@ -36,5 +36,5 @@ Prazer, sou o Andres! Atualmente estou absorvendo conhecimentos relacionados a Ã
 
 <h1 align="center">Detalhes:</h1>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrescristian&show_icons=true&theme=algolia&hide_border=true"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrescristian&layout=compact&theme=algolia&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrescristian&show_icons=true&theme=algolia&hide_border=true&title_color=FF1493"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrescristian&layout=compact&theme=algolia&hide_border=true&title_color=FF1493">
 </div>
