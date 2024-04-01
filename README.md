@@ -24,7 +24,7 @@ Prazer, sou o Andres! Atualmente estou absorvendo conhecimentos relacionados a Ã
 
 </div>
 
-<h2>Fundamentos de Rede em:</h2>
+<h2>Fundamentos de Rede em: </h2>
 
 <div align="center">
 
