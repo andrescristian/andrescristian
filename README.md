@@ -7,9 +7,9 @@
 Prazer, sou o Andres! Atualmente estou absorvendo conhecimentos relacionados a área de TI, tais como:
 <li>Hardware</li>
 <li>Redes</li>
-<li>Cabeamento Estruturado</li>
-<li>Banco de Dados SQL & NoSQL</li>
-<li>Desenvolvimento Back-end e Front-end</li>
+<li>Cabeamento estruturado</li>
+<li>Desenvolvimento de sistemas web & desktop</li>
+<li>Banco de dados SQL & NoSQL</li>
 
 <h2>Desenvolvendo as Plataformas Back-End e Front-End:</h2>
 
