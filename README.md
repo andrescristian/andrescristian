@@ -4,14 +4,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0406DA&size=35&center=true&vCenter=true&width=1000&lines=Técnico+em+Informática+-+SENAC;Hardware,+Redes+e+Programação;)](https://git.io/typing-svg)
 
 </div>
-Prazer, sou o Andres! Atualmente estou absorvendo conhecimentos relacionados a área de TI, tais como:
+Prazer, sou o Andres! Evoluindo conhecimentos relacionados a área de TI, tais como:
 <li>Hardware</li>
 <li>Redes</li>
 <li>Cabeamento estruturado</li>
 <li>Desenvolvimento de sistemas web & desktop</li>
 <li>Banco de dados SQL & NoSQL</li>
 
-<h2>Desenvolvendo as Plataformas Back-End e Front-End:</h2>
+<h2 align="center">Tecnologias de Desenvolvimento</h2>
 
 <div align="center">
 
@@ -24,7 +24,7 @@ Prazer, sou o Andres! Atualmente estou absorvendo conhecimentos relacionados a �
 
 </div>
 
-<h2>Fundamentos de Rede em: </h2>
+<h2 align="center">Tecnologias de Rede</h2>
 
 <div align="center">
 
@@ -34,7 +34,7 @@ Prazer, sou o Andres! Atualmente estou absorvendo conhecimentos relacionados a �
 
 </div>
 
-<h1 align="center">Detalhes:</h1>
+<h2 align="center">Detalhes:</h2>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrescristian&show_icons=true&theme=algolia&hide_border=true"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrescristian&layout=compact&theme=algolia&hide_border=true">
 </div>
