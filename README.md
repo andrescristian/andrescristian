@@ -11,9 +11,9 @@ Prazer, sou o Andres! Evoluindo conhecimentos relacionados a área de TI, tais c
 <li>Desenvolvimento de sistemas web & desktop</li>
 <li>Banco de dados SQL & NoSQL</li>
 
-<h2 align="center">Tecnologias de Desenvolvimento</h2>
-
 <div align="center">
+
+<h2>Tecnologias de Desenvolvimento</h2>
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
@@ -22,19 +22,12 @@ Prazer, sou o Andres! Evoluindo conhecimentos relacionados a área de TI, tais c
 [![CSS](https://img.shields.io/badge/CSS3-0406DA?style=for-the-badge&logo=css3&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
-</div>
-
-<h2 align="center">Tecnologias de Rede</h2>
-
-<div align="center">
+<h2>Tecnologias de Redes de Computadores</h2>
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 
-</div>
-
-<h2 align="center">Detalhes:</h2>
-<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrescristian&show_icons=true&theme=algolia&hide_border=true"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrescristian&layout=compact&theme=algolia&hide_border=true">
+  
 </div>
