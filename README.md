@@ -7,7 +7,6 @@
 Prazer, sou o Andres! Evoluindo conhecimentos relacionados a área de TI, tais como:
 <li>Hardware</li>
 <li>Redes</li>
-<li>Cabeamento estruturado</li>
 <li>Desenvolvimento de sistemas web & desktop</li>
 <li>Banco de dados SQL & NoSQL</li>
 
