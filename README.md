@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0406DA&height=150&section=header&text=Andres+Cristian&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0406DA&height=150&section=header&text=Técnico+em+Informática&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0406DA&size=35&center=true&vCenter=true&width=1000&lines=Técnico+em+Informática+-+SENAC;Hardware,+Redes+e+Programação;)](https://git.io/typing-svg)
